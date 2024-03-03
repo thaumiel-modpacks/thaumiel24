@@ -70,7 +70,6 @@ This repository contains everything needed to manage the [Packwiz][Packwiz-url],
 
 Defaults-modified version of the [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh) datapack redistributed in this repository under [license permissions](https://github.com/SpluoSplatus/Vanilla-Refresh/wiki/License#permitted-uses).
 
-
 ### Mod Authors
 
 If we have mistakenly included a mod for which you reserve permission to use in a modpack, please make an issue or contact the organization and we will remove it immediately.
@@ -89,6 +88,10 @@ If we have mistakenly included a mod for which you reserve permission to use in 
 <!-- GETTING STARTED -->
 
 ## Getting Started
+
+If you're playing on singleplayer, make sure to copy `datapacks/vanillarefresh-v1.4.19g_1.20.x-customized` to your save's `datapacks` folder.
+
+If you're starting a server using the included docker-compose, make sure to run `prepare` (or zip `datapacks/vanillarefresh-v1.4.19g_1.20.x-customized` if you're on windows) first!
 
 See the [Packwiz documentation](https://packwiz.infra.link/) for pack development or singleplayer installation.
 
