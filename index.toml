@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/areas.pw.toml"
-hash = "ccf095750f8dcf523f1039ae894f5b2b2ddd9ec46a8aa23a3cb45143a457e0a3"
+hash = "761c6183b6880e578159c3f035b087979915337928489c8dfc52dc43b0804f77"
 metafile = true
 
 [[files]]
