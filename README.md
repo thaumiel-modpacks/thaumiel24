@@ -66,7 +66,7 @@
 
 This is a semi-private modpack focused on magic and adventure. This time it's based on Fabric, to explore what Fabric's exosystem has to offer.
 
-This repository contains everything needed to manage the [Packwiz][Packwiz-url], as well as everything needed to bootstrap a server using [itzg's minecraft docker images][itzg/docker-minecraft-server-url]
+This repository contains everything needed to manage the [Packwiz][Packwiz-url], as well as everything needed to bootstrap a server using [itzg's minecraft docker images][itzg/docker-minecraft-server-url].
 
 Defaults-modified version of the [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh) datapack redistributed in this repository under [license permissions](https://github.com/SpluoSplatus/Vanilla-Refresh/wiki/License#permitted-uses).
 
