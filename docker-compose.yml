@@ -31,11 +31,6 @@ services:
       ENABLE_ROLLING_LOGS: "true"
       RCON_CMDS_STARTUP: |-
         gamerule keepInventory true
-        pregen start gen radius initialGen 0 0 250 minecraft:overworld FAST_CHECK_GEN
-      RCON_CMDS_FIRST_CONNECT: |-
-        pregen stop
-      RCON_CMDS_LAST_DISCONNECT: |-
-        pregen continue initialGen
       RCON_CMDS_ON_CONNECT: |-
         team join Players @a[team=]
       VANILLATWEAKS_SHARECODE: cs6OrP
