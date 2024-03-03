@@ -1,0 +1,13 @@
+name = "Slabs Expanded"
+filename = "slabsexpanded-1.20.1-0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ojcZhM5B/versions/OPPhcEmJ/slabsexpanded-1.20.1-0-fabric.jar"
+hash-format = "sha1"
+hash = "5f310e68e16e8a2924c2c3bf20efddd398db6174"
+
+[update]
+[update.modrinth]
+mod-id = "ojcZhM5B"
+version = "OPPhcEmJ"

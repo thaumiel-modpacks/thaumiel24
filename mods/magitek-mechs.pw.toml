@@ -1,0 +1,13 @@
+name = "Magitek Mechs"
+filename = "magitekmechs-fabric-MC1.20-1.0.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F6KTit9k/versions/2o18qUeH/magitekmechs-fabric-MC1.20-1.0.20.jar"
+hash-format = "sha1"
+hash = "881ed6cc7f9770ef05aad979bbc4c45a590b84a3"
+
+[update]
+[update.modrinth]
+mod-id = "F6KTit9k"
+version = "2o18qUeH"

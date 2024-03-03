@@ -1,0 +1,16 @@
+name = "Thaumiel24"
+author = "Tokebe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7cc07fa8a13ae8b074a7f5c1c44554dad2657ee5110315aca185947f804475d5"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4"]

@@ -1,0 +1,13 @@
+{
+  "isEnableDoubleJump": false,
+  "isEnableDash": false,
+  "isEnableLedgeGrab": true,
+  "isEnableAirDash": false,
+  "isSneakDisableFeatures": false,
+  "timeDelayDash": 400,
+  "timeCooldownDash": 1300,
+  "minimumVerticalVelocity": 0.4,
+  "fixedJumpBoost": 0.4,
+  "dashSpeed": 1.7,
+  "inAirDashSpeed": 1.3
+}

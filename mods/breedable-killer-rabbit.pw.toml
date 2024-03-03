@@ -1,0 +1,13 @@
+name = "Breedable Killer Rabbit"
+filename = "breedablekillerrabbit-1.20.1-3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bhXPWTWy/versions/OWYApduF/breedablekillerrabbit-1.20.1-3.4.jar"
+hash-format = "sha1"
+hash = "056d68d267fdc504d3ccc9a8ab926065527dbee9"
+
+[update]
+[update.modrinth]
+mod-id = "bhXPWTWy"
+version = "OWYApduF"

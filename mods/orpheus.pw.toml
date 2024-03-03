@@ -1,0 +1,13 @@
+name = "Orpheus | Forge & Fabric"
+filename = "orpheus-1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cftnGZdK/versions/x2xVEzeV/orpheus-1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "6d02b1d7fc5350e225db8aacbf249a7eed85ddbd"
+
+[update]
+[update.modrinth]
+mod-id = "cftnGZdK"
+version = "x2xVEzeV"

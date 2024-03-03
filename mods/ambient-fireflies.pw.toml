@@ -1,0 +1,13 @@
+name = "Ambient Fireflies"
+filename = "fireflies-mc1.20-v1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/czRQtf69/versions/A4PDg7kz/fireflies-mc1.20-v1.3.1.jar"
+hash-format = "sha1"
+hash = "d861b97801744739f05de097bf38c9d202b72bf1"
+
+[update]
+[update.modrinth]
+mod-id = "czRQtf69"
+version = "A4PDg7kz"

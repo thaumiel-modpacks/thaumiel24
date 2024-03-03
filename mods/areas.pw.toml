@@ -1,0 +1,13 @@
+name = "Areas"
+filename = "areas-1.20.1-5.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NWvsqJ2Z/versions/riPhtBCe/areas-1.20.1-5.4.jar"
+hash-format = "sha1"
+hash = "22d779469fd248e85b3b1f29964ad88510080da0"
+
+[update]
+[update.modrinth]
+mod-id = "NWvsqJ2Z"
+version = "riPhtBCe"
