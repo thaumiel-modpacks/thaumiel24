@@ -634,6 +634,11 @@ hash = "4d43df38124623e53f45d192ed32112058dbd56c2f29211ba908dc39679e9eed"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-movement-fabric.pw.toml"
+hash = "17b0d57e775f3acf76b5d4cf20812424b60bf1324ba600091d231f6c3af18748"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ace5c16356f83d83a41ba828d3657324f5bcdc0dfc75ff950d371f9feef742f2"
 metafile = true

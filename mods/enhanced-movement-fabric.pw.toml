@@ -1,0 +1,13 @@
+name = "Enhanced Movement [ Fabric ]"
+filename = "fabric-enhancedmovement-1.0.6.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "80feb59393d38cf533b17204f7ae01c1247f9287"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5154503
+project-id = 843764
