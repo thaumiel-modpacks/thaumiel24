@@ -7,6 +7,9 @@ LICENSE
 .gitattributes
 .gitignore
 
+# Exclude datapack directory
+datapacks/**
+
 # Exclude server files
 t24-data/**
 t24-backups/**
@@ -15,4 +18,4 @@ whitelist.json
 vt-resoursepacks.json
 ops.json
 .env
-
+prepare

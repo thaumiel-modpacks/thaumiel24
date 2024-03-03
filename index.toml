@@ -61,6 +61,18 @@ file = "config/mousewheelie.hjson"
 hash = "732d2a8258d9f43e772cd64f1c97ac447188d11afb41f9790f7a9c240c4016ca"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "9960c1af29fda6103697cf97f8394193997b0a47140f133637dbffe40ac96e07"
+
+[[files]]
+file = "config/smoothswapping.json"
+hash = "b94798bac2fb397e22b846ce8f22d3090322a25be697ae5c0cdb378ba6bf335b"
+
+[[files]]
+file = "config/soulfired-common.toml"
+hash = "270b0974fc605ee44cf2884c48db9b5207dcf9d66bed7484b6e4a5ad85682df4"
+
+[[files]]
 file = "config/supplementaries-common.json"
 hash = "6f4addaa8b0a637e8cb853a63c10d3be8c049d80cbc9d9e2f6001712297fbda2"
 
@@ -69,8 +81,12 @@ file = "config/swordblockingmechanics-server.toml"
 hash = "d910e6d3fe982c43dd0dbed9e8f166c6142d0801d12c8f47cfded34a257d1c3d"
 
 [[files]]
-file = "datapacks/vanillarefresh-v1.4.19g_1.20.x-customized.zip"
-hash = "d79f0a5f50bd864d671b1b034e9c5c7b14624effe36dac281fc5aecc132e83b0"
+file = "config/travelerstitles-fabric-1_20.toml"
+hash = "2efd9c0e602f3fef75fbe324926a32a78608073f7b1d585a017657d574c85d6b"
+
+[[files]]
+file = "config/xbob.json"
+hash = "fb2b3d313f25423f2dbe93a422e209f4f59b0c30898d174abe21589b88020fff"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

@@ -7,8 +7,8 @@ services:
     tty: true
     stdin_open: true
     volumes:
-      - ./t24-data:/datapack
-      - ./datapacks:/data/saves/
+      - ./t24-data:/data
+      - ./datapacks:/datapacks
       - ./server-config/ops.json:/data/ops.json
       - ./server-config/whitelist.json:/data/whitelist.json
     # restart: unless-stopped
@@ -39,7 +39,7 @@ services:
       RCON_CMDS_ON_CONNECT: |-
         team join Players @a[team=]
       VANILLATWEAKS_SHARECODE: cs6OrP
-      DATAPACKS: datapacks/vanillarefres-v1.4.19g_1.20.x-customized.zip
+      DATAPACKS: /datapacks
       OVERRIDE_SERVER_PROPERTIES: "true"
       MOTD: Welcome to the default Thaumiel24 server!
       DIFFICULTY: normal
