@@ -1,6 +1,9 @@
 name = "Crosshair Bobbing"
 filename = "CrosshairBobbing-1.2.jar"
 side = "client"
+optional = true
+default = false
+description = "Makes the crosshair bob when you walk. Might cause motion sickness for some."
 
 [download]
 url = "https://cdn.modrinth.com/data/paCz780b/versions/Yi5bZPWR/CrosshairBobbing-1.2.jar"

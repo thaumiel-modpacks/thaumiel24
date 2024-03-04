@@ -1,6 +1,9 @@
 name = "Tiny Item Animations"
 filename = "tia-1.20-1.1-fabric.jar"
 side = "client"
+optional = true
+default = true
+description = "Slightly animated when clicking on items."
 
 [download]
 url = "https://cdn.modrinth.com/data/wMkevcSR/versions/TmolU2Dw/tia-1.20-1.1-fabric.jar"

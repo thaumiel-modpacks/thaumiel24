@@ -1,6 +1,9 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-2.0.1-a-1.20.1.jar"
 side = "client"
+optional = true
+default = true
+description = "Far-distance Level-of-Detail mod. Costs some performance."
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar"

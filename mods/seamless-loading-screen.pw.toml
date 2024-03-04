@@ -1,6 +1,9 @@
 name = "Seamless Loading Screen "
 filename = "seamless-loading-screen-2.0.3+1.20.1-fabric.jar"
 side = "client"
+optional = true
+default = true
+description = "Takes a screenshot when you disconnect to make loading screens more seamless."
 
 [download]
 url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/31S6g6rg/seamless-loading-screen-2.0.3%2B1.20.1-fabric.jar"

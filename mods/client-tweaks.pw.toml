@@ -1,6 +1,9 @@
 name = "Client Tweaks"
 filename = "clienttweaks-fabric-1.20-11.1.0.jar"
 side = "client"
+optional = true
+default = true
+description = "Random small behavioral QoL changes."
 
 [download]
 url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/3zMCvvSv/clienttweaks-fabric-1.20-11.1.0.jar"

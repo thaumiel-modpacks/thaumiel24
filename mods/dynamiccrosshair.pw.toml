@@ -1,6 +1,9 @@
 name = "Dynamic Crosshair"
 filename = "dynamiccrosshair-7.4.4+1.20-fabric.jar"
 side = "client"
+optional = true
+default = true
+description = "Crosshair changes contextually. May be distracting to some."
 
 [download]
 url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/9TBX0qkD/dynamiccrosshair-7.4.4%2B1.20-fabric.jar"
