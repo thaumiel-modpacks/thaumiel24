@@ -32,6 +32,7 @@ services:
       RCON_CMDS_STARTUP: |-
         gamerule keepInventory true
         gamerule playersSleepingPercentage 50
+        gamerule disableElytraMovementCheck true
         chunky cancel
         chunky shape square
         chunky center 0 0
