@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "30928528b8739f0b3d708cef1f41a0099481be25fca54de4faf67d9e47410640"
+hash = "73c0136e505ca927522e6bd43ccf40abd90c5b2ee80a37653563339ed4001af7"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+hash = "d56b12f86d57a9940d6c716e8f1d1e5fd97d34f266829f5b6073104bc205f4cd"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "d850ebf55e4799b3dc85bbc5629ea162a7e164d6321d42032757a94c8a048792"
+hash = "2d3fcc3d59e8d403b199b2c41d1f7c37759a09bb1dd70eeab1dc615294d5b0d4"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+hash = "c20022e5476ec918cf1dae9113eff0ab20e38ac37ac691299a5be668255723b3"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
+hash = "67d27775b9a23b1b58693cdd0c20ad3c23e4510fb38e3ee00b68a3ec5616d818"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+hash = "84b6708f5de7e7ac72bd9c1bf50089aff1151427ac3021f32508eecb20f6a78e"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
+hash = "d2dbf3665ec319386289f61ab284b8b4e3d9c0df8146963af412cb3d3bf8dcfd"
 metafile = true
 
 [[files]]
@@ -1370,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
-hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
+hash = "397e774b8754023071d9d3634805e46c56287154aff5572ace32a01a54bc2f50"
 metafile = true
 
 [[files]]
@@ -1430,7 +1430,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "9f38461b4e2c233243c2149dd495f9992672cba45088557a29f93dc3b8cd12f4"
+hash = "3ad55af514af447d4bcbd0c45662a6d46b0b1d555d161748e303965cf0a814dc"
 metafile = true
 
 [[files]]
@@ -1555,7 +1555,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
-hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
+hash = "e72ad33ab2a04dca928abf6b8d8cfd7da3ac2ee8489e812afeb6e22bb012c5be"
 metafile = true
 
 [[files]]
@@ -1655,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/xbob.pw.toml"
-hash = "4ded1aafb22de89d4dc05c15d9c7897d51613dc13013864dc3a9665243ce4240"
+hash = "e75a31748ecd1b329775119ef10438dfaf8cc96caae86256d52005f06d0ad2ca"
 metafile = true
 
 [[files]]
