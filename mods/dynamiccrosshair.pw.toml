@@ -1,6 +1,8 @@
 name = "Dynamic Crosshair"
 filename = "dynamiccrosshair-7.4.4+1.20-fabric.jar"
 side = "client"
+
+[option]
 optional = true
 default = true
 description = "Crosshair changes contextually. May be distracting to some."

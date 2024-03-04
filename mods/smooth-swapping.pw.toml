@@ -1,6 +1,8 @@
 name = "Smooth Swapping"
 filename = "smoothswapping-0.9.3.1-1.20.2-fabric.jar"
 side = "client"
+
+[option]
 optional = true
 default = false
 description = "Animated item movement when fast-moving items between inventories. May be distracting to some."

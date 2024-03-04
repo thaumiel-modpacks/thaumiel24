@@ -1,6 +1,8 @@
 name = "Mouse Wheelie"
 filename = "mousewheelie-1.13.0+mc1.20.1.jar"
 side = "client"
+
+[option]
 optional = true
 default = true
 description = "Use the mousewheel to manage inventory items."
