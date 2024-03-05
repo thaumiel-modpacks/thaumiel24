@@ -1,6 +1,6 @@
 name = "Ecospherical Expansion"
 filename = "eco-1.20.2-2.4.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WtcuxDNN/versions/7P0EisYJ/eco-1.20.2-2.4.3.jar"

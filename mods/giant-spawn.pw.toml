@@ -1,6 +1,6 @@
 name = "Giant Spawn"
 filename = "giantspawn-1.20.1-5.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iWwn7s9U/versions/Q6XB1AWg/giantspawn-1.20.1-5.0.jar"

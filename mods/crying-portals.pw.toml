@@ -1,6 +1,6 @@
 name = "Crying Portals"
 filename = "cryingportals-1.20.1-2.7.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3RkVNglH/versions/PqKrTii2/cryingportals-1.20.1-2.7.jar"

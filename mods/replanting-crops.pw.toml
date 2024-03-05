@@ -1,6 +1,6 @@
 name = "Replanting Crops"
 filename = "replantingcrops-1.20.1-5.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EXzIPtJo/versions/uSCEar36/replantingcrops-1.20.1-5.3.jar"

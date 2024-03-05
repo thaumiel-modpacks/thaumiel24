@@ -1,6 +1,6 @@
 name = "Edibles"
 filename = "edibles-1.20.1-4.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Rjl8pCZ9/versions/9vPGP4PO/edibles-1.20.1-4.3.jar"

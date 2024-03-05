@@ -1,6 +1,6 @@
 name = "Furnace Recycle"
 filename = "furnacerecycle-1.20.1-2.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HyKmtI3L/versions/jNBlFjEN/furnacerecycle-1.20.1-2.2.jar"
