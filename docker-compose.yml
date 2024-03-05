@@ -34,6 +34,7 @@ services:
         gamerule playersSleepingPercentage 50
         gamerule disableElytraMovementCheck true
         chunky cancel
+        chunky confirm
         chunky shape square
         chunky center 0 0
         chunky radius 256
