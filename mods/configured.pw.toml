@@ -1,13 +1,13 @@
 name = "Configured"
-filename = "Configurable-mc1.20.1-v1.2.2.jar"
+filename = "configured-fabric-1.20.1-2.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HlpEBg3R/versions/bvpQ3K9S/Configurable-mc1.20.1-v1.2.2.jar"
 hash-format = "sha1"
-hash = "0c9056c4097d4891d21b99b7e289ecd6f2a02831"
+hash = "df4ac94c5986a5bdb0f5f1f29d9c408bd48cc445"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "HlpEBg3R"
-version = "bvpQ3K9S"
+[update.curseforge]
+file-id = 5101369
+project-id = 457570
