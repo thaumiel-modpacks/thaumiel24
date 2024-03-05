@@ -1,6 +1,6 @@
 name = "Configured"
 filename = "Configurable-mc1.20.1-v1.2.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HlpEBg3R/versions/bvpQ3K9S/Configurable-mc1.20.1-v1.2.2.jar"
