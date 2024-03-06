@@ -37,7 +37,7 @@ services:
         chunky confirm
         chunky shape square
         chunky center 0 0
-        chunky radius 256
+        chunky radius 5000
         chunky world overworld
         chunky start
         chunky world the_nether
