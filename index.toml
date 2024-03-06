@@ -619,6 +619,26 @@ hash = "4fdb3fed87f0b60a09bd5ad1a0c3007ab0ea9a8b8508af10bc1c7a750c85f237"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "cc7100eee64f1e580cfbf55002240cc3a5d2298db69ed864a0c4712c886dbce6"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "1a1bd64e1b729d6f8eb8f5e7879359214f353980824775805d27b9324ec1e176"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a91122759d18905df8ae6c86265d02eadd3a2abeda939e96c913ed851555fd34"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-commands.pw.toml"
 hash = "6268093533f8788ee4622eb6d8094823f782a498fc3ef7863b624bf92902b03a"
 metafile = true
@@ -696,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "2b917cb7ce42faa92e029b4468e6dd580074e49630580b9b3b8014e14c914b07"
 metafile = true
 
 [[files]]
@@ -914,11 +939,6 @@ hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
-metafile = true
-
-[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "89b8f67bb0b587a5adda1dee86634eb77ba2b9151dc42fea6c84dcae9943f9eb"
 metafile = true
@@ -931,11 +951,6 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
@@ -1281,6 +1296,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "2776f4939eaec939c86063aa7111a6d0382061b4d3a2c60a6b26fe3ac6695a78"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "d53a9b17a24b687107b6012579418f9a4dd49eaf768513f952e970e3b43de8ab"
 metafile = true
 
 [[files]]
@@ -1640,7 +1660,7 @@ metafile = true
 
 [[files]]
 file = "mods/weaponmaster.pw.toml"
-hash = "0505e7e928f0e37ffdd0d48543e90a1152029ce9872716c12f7d6968cb09590f"
+hash = "1c7e7e52a4125be4fa1bfe155a7b9fdaf8fa4c1a1f3ad1203171817f36cd41df"
 metafile = true
 
 [[files]]
