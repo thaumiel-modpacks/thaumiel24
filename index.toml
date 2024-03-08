@@ -129,6 +129,11 @@ hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
 file = "mods/always-a-wither-skull.pw.toml"
 hash = "f62a95493780c7999d124b24b982aa0ad1815e9ee3ef349b8251dbc5c9ec5959"
 metafile = true
@@ -409,6 +414,11 @@ hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
 metafile = true
@@ -451,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "d1671e4336691fe57c8f029e1bd9c7e7af5716d6a6b2966621c626d6dc3df7ab"
 metafile = true
 
 [[files]]
@@ -511,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/crying-portals.pw.toml"
 hash = "ea52e08d1fc9597281ff2d6f919b448dbeafaa4133111822bfb6da3428a5431b"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a57ba18c54d18c4f5dc7e20023afd562fb118b65f0c1edb154f6097594fe2cdb"
 metafile = true
 
 [[files]]
@@ -951,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -1406,6 +1431,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "b9eb5237b412cdae4005301af44f6b2298cb3b6f53cfd93456cf9c7833ad6a4b"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "106afe5ddc440c9493c00d157e9a4fca31469cf38e6306d41312a3da577a6f07"
 metafile = true
 
 [[files]]

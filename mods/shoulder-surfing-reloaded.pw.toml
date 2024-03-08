@@ -1,0 +1,18 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Fabric-1.20.1-2.9.4.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Moves the third-person camera over the shoulder."
+
+[download]
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/DEFCwFb9/ShoulderSurfing-Fabric-1.20.1-2.9.4.jar"
+hash-format = "sha1"
+hash = "1ae78986668f2d8aefcfe93e8f50822b00cf4097"
+
+[update]
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "DEFCwFb9"
