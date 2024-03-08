@@ -65,6 +65,10 @@ file = "config/notenoughanimations.json"
 hash = "9960c1af29fda6103697cf97f8394193997b0a47140f133637dbffe40ac96e07"
 
 [[files]]
+file = "config/shouldersurfing.toml"
+hash = "b9c8cd11d318c3f34cccf37de9acefd42d9fa9952056670a1a3d23519a14eb09"
+
+[[files]]
 file = "config/smoothswapping.json"
 hash = "b94798bac2fb397e22b846ce8f22d3090322a25be697ae5c0cdb378ba6bf335b"
 
