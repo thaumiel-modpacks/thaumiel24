@@ -31,21 +31,8 @@ services:
       ENABLE_ROLLING_LOGS: "true"
       RCON_CMDS_STARTUP: |-
         gamerule keepInventory true
-        gamerule playersSleepingPercentage 50
+        gamerule playersSleepingPercentage 33
         gamerule disableElytraMovementCheck true
-        chunky cancel
-        chunky confirm
-        chunky shape square
-        chunky center 0 0
-        chunky radius 5000
-        chunky world overworld
-        chunky start
-        chunky world the_nether
-        chunky start
-      RCON_CMDS_FIRST_CONNECT: |-
-        chunky pause
-      RCON_CMDS_LAST_DISCONNECT: |-
-        chunky continue
       RCON_CMDS_ON_CONNECT: |-
         team join Players @a[team=]
       VANILLATWEAKS_SHARECODE: cs6OrP
