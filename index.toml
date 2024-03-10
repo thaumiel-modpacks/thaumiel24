@@ -1113,11 +1113,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/mob-captains.pw.toml"
-hash = "d2890336faf28e59c15902545b261bf39f020850e61174ba799169a5f67e9e52"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
 metafile = true
@@ -1500,11 +1495,6 @@ metafile = true
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
 hash = "7b178c6223946a304ee0b78a14e2c35c865fbaac801b0e897c8491ac1e2b8de9"
-metafile = true
-
-[[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
 
 [[files]]
