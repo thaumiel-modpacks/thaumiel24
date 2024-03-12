@@ -42,7 +42,7 @@ hash = "85b910a8e1d72cfa446bc9a6d887138c633ececa04ed7956c4376199c2640d5d"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "11601939385d9e54e65199f98de8cca344e63180b97e2114ac4d673204a7b237"
+hash = "ecdde96a5649c91ebb83bc03d990331b562d55564f450668008a0bd9af78c604"
 
 [[files]]
 file = "config/gravity_changer.json"
