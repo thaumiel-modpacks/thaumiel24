@@ -1,13 +1,13 @@
 name = "Fzzy Core"
-filename = "fzzy_core-0.4.2+1.20.1.jar"
+filename = "fzzy_core-0.5.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LJ5wlCDr/versions/lUj1i8VZ/fzzy_core-0.4.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/LJ5wlCDr/versions/tb0jIpzn/fzzy_core-0.5.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "8b2c6f9cc99fc27c7efabeaaae39a2eec1cb8bc5"
+hash = "307ddbdd1e193ee440aee766a6256704d6e670f2"
 
 [update]
 [update.modrinth]
 mod-id = "LJ5wlCDr"
-version = "lUj1i8VZ"
+version = "tb0jIpzn"

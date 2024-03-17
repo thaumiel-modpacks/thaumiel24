@@ -1,13 +1,13 @@
 name = "Ambient Fireflies"
-filename = "fireflies-mc1.20-v1.3.1.jar"
+filename = "ambient_fireflies-mc1.20.1-v1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/czRQtf69/versions/A4PDg7kz/fireflies-mc1.20-v1.3.1.jar"
+url = "https://cdn.modrinth.com/data/czRQtf69/versions/dNSqzbU9/ambient_fireflies-mc1.20.1-v1.4.0.jar"
 hash-format = "sha1"
-hash = "d861b97801744739f05de097bf38c9d202b72bf1"
+hash = "214c7410ab83825673a752de3fb4432b6006ffb4"
 
 [update]
 [update.modrinth]
 mod-id = "czRQtf69"
-version = "A4PDg7kz"
+version = "dNSqzbU9"

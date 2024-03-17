@@ -1,13 +1,13 @@
 name = "Bag Of Holding"
-filename = "BagOfHolding-v8.0.1-1.20.1-Fabric.jar"
+filename = "BagOfHolding-v8.0.2-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qbqWvc0D/versions/iE2D1E83/BagOfHolding-v8.0.1-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/qbqWvc0D/versions/sxjgmBCY/BagOfHolding-v8.0.2-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "f18353fd320db3dc6e144c04825602ca34a21b35"
+hash = "8607f65bcc9cdc9cc85c523bae7a83144da4b273"
 
 [update]
 [update.modrinth]
 mod-id = "qbqWvc0D"
-version = "iE2D1E83"
+version = "sxjgmBCY"
