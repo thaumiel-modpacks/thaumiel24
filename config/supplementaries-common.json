@@ -197,7 +197,7 @@
       "sepia_globe": true
     },
     "sign_post": {
-      "enabled": false,
+      "enabled": true,
       "way_sign": {
         "show_distance_text": true
       }
