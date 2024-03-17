@@ -1,0 +1,13 @@
+name = "Fast Entity Transfer"
+filename = "fastentitytransfer-fabric-1.20.x-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/inmPbeHN/versions/l04X4om8/fastentitytransfer-fabric-1.20.x-1.2.2.jar"
+hash-format = "sha1"
+hash = "e229125c8eaa103b3dbe1b33fd5f0eded0451972"
+
+[update]
+[update.modrinth]
+mod-id = "inmPbeHN"
+version = "l04X4om8"
