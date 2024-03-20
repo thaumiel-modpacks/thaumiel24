@@ -303,6 +303,11 @@ hash = "6d8ae2857a1571e6c75f52943dc129e1e290ee6f451a16962e32b6e5ca83bf47"
 metafile = true
 
 [[files]]
+file = "mods/big-contraptions.pw.toml"
+hash = "ab67c65cbc5aae77cc39bb4ceb542aa239445ae209e5e6b246dac68fc9873dcf"
+metafile = true
+
+[[files]]
 file = "mods/bigger-sponge-absorption-radius.pw.toml"
 hash = "7cbc14e6b34d044040383e408d60143a5e1e1fb1167161ecf4fbf06250814572"
 metafile = true
@@ -370,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/bucketable.pw.toml"
 hash = "1bc5a58e09b1b8ac867d90eed1164843836e5e1fa9c17fc20eec1fe6106c9a5a"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "29885615b9a13b46a8c0e2da012b0f51f1eeea35d6fcb58d74fe094c959f4400"
 metafile = true
 
 [[files]]
@@ -483,8 +493,23 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "2ce30db7df879d90994260483d4d1294a9a574f92507b0383325ecbda5bcf05d"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
+metafile = true
+
+[[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "c5ed8f788371776fa029b0e5a2ea95b56ffd7611a1b31dc93100d39d0f1fcbd5"
+metafile = true
+
+[[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "04027dab740f15c229f90caea709a36f168272fc2e62b7704ee037f165e1d2ab"
 metafile = true
 
 [[files]]
@@ -503,8 +528,43 @@ hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
+file = "mods/create-fastfood.pw.toml"
+hash = "7dda3d85ac605b0e0866f7d8198cbfbd34af553d4b8b5e3cf1d23cf366a9250c"
+metafile = true
+
+[[files]]
+file = "mods/create-high-pressure.pw.toml"
+hash = "cbfa75e50c93f17359914fe71f6bd86aaa5efb947ab78669d2a16688a8cb8ae6"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
+metafile = true
+
+[[files]]
+file = "mods/create-switzerland.pw.toml"
+hash = "17734957c23c72c6774a340e8d3f1acdde42179b58f74b8730ec16fa1f8e7956"
+metafile = true
+
+[[files]]
+file = "mods/create-train-perspective-fix.pw.toml"
+hash = "381e689160236c2e1e3c7cb80e6068bc62973c3cc802f145a1fdc3090fd8213a"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "76cdd4223c19819d5b2eceaa1866e10ce80dc0226e75ef31581f46859e2e5c06"
 metafile = true
 
 [[files]]
@@ -1480,6 +1540,11 @@ metafile = true
 [[files]]
 file = "mods/slabs-expanded.pw.toml"
 hash = "6b7f269170765eb2b6afcca314e6d6d3cf83a32bfe469a916394aa745a0d4bdf"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
 metafile = true
 
 [[files]]

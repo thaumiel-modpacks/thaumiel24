@@ -1,0 +1,13 @@
+name = "Create: Fastfood"
+filename = "CreateFastFood-0.2-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAKlqy1K/versions/VKYQa6ym/CreateFastFood-0.2-1.20.jar"
+hash-format = "sha1"
+hash = "4306163dec9835533f8761b0c7a9cb8e05a4e78e"
+
+[update]
+[update.modrinth]
+mod-id = "eAKlqy1K"
+version = "VKYQa6ym"

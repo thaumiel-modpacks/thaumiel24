@@ -1,0 +1,13 @@
+name = "Create: Switzerland"
+filename = "create-switzerland-1.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QHKBq60V/versions/djq9Zk7H/create-switzerland-1.1.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "af15982d2bee5f8d92f04cb54db9e0d10903efda"
+
+[update]
+[update.modrinth]
+mod-id = "QHKBq60V"
+version = "djq9Zk7H"
