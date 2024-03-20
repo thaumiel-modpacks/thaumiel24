@@ -85,6 +85,10 @@ file = "config/swordblockingmechanics-server.toml"
 hash = "d910e6d3fe982c43dd0dbed9e8f166c6142d0801d12c8f47cfded34a257d1c3d"
 
 [[files]]
+file = "config/tempad.jsonc"
+hash = "b0985155d6b01b4a62785728a5915231c39db4501c957a567d467889f7ff1a00"
+
+[[files]]
 file = "config/travelerstitles-fabric-1_20.toml"
 hash = "2efd9c0e602f3fef75fbe324926a32a78608073f7b1d585a017657d574c85d6b"
 
