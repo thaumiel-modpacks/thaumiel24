@@ -307,11 +307,6 @@ hash = "6d8ae2857a1571e6c75f52943dc129e1e290ee6f451a16962e32b6e5ca83bf47"
 metafile = true
 
 [[files]]
-file = "mods/big-contraptions.pw.toml"
-hash = "ab67c65cbc5aae77cc39bb4ceb542aa239445ae209e5e6b246dac68fc9873dcf"
-metafile = true
-
-[[files]]
 file = "mods/bigger-sponge-absorption-radius.pw.toml"
 hash = "7cbc14e6b34d044040383e408d60143a5e1e1fb1167161ecf4fbf06250814572"
 metafile = true
