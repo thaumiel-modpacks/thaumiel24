@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "e1bafab4dd874038592bee194b973817874f94d0763a06db8f77764f377e2ce3"
 
 [[files]]
+file = "config/betterchunkloading.json"
+hash = "26eb79a87e03b86d572c6e294765385e7ff4629f5418592399fe4a3c657eb384"
+
+[[files]]
 file = "config/bettercombat/server.json5"
 hash = "89166bae342e6707c07096417991e852b8bb22ea007496542554ce42e407f8db"
 
@@ -279,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "1be2888cf0bd56a1d954d182bbf6be7428219ee06e306584667885d2b28aa8fc"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "ff2d4b4073f53d1e87f15456a3d21713e3e64352b8f86e767ab4934668417208"
 metafile = true
 
 [[files]]
