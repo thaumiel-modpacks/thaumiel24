@@ -771,11 +771,6 @@ hash = "32aac801838ce93ccca60ec99f04293546985c8bc2e2d19fba46953e66a3f53e"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "9291c85bf0059c7d80e023f65816850919ea4b9c967477d0e3d1b44f811b573a"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
 metafile = true
